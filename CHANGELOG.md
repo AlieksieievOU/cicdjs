@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.0.3 (2024-05-09)
+
+
+### Bug Fixes
+
+* **core:** changed header 4f8117d
+
 ### 0.0.2 (2024-05-09)
 
 ### 0.0.1 (2024-05-09)
